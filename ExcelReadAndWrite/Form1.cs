@@ -14,7 +14,7 @@ using System.Data.Odbc;
 using System.IO;
 
 /**
- * 作者：_ Wutiezhu 
+ * 作者：XieGuoPing_ Wutiezhu 
  * 参考：https://www.cnblogs.com/mora1988/p/5715097.html
  *       http://www.cnblogs.com/restran/p/3889479.html
  *       http://www.bubuko.com/infodetail-292769.html
